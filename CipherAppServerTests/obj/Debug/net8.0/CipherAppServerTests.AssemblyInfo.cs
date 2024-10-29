@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CipherAppServerTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9916cff2961fbdfb053a5e01d83f1b26a8285ad1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CipherAppServerTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CipherAppServerTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

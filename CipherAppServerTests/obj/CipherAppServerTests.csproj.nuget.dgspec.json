@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj": {}
+    "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj": {
+    "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj",
+        "projectUniqueName": "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj",
         "projectName": "CipherAppServerTests",
-        "projectPath": "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj",
+        "projectPath": "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServerTests\\CipherAppServerTests.csproj",
         "packagesPath": "C:\\Users\\suraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServerTests\\obj\\",
+        "outputPath": "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServerTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj": {
-                "projectPath": "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj"
+              "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj": {
+                "projectPath": "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj": {
+    "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj",
+        "projectUniqueName": "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj",
         "projectName": "CipherAppServer",
-        "projectPath": "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj",
+        "projectPath": "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServer\\CipherAppServer.csproj",
         "packagesPath": "C:\\Users\\suraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suraj\\source\\repos\\CipherAppServer\\CipherAppServer\\obj\\",
+        "outputPath": "C:\\Users\\suraj\\source\\repos\\git\\CipherAppServer\\CipherAppServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
