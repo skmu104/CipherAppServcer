@@ -1,7 +1,0 @@
-[Oo]db/
-[Bb]in
-[Dd]ebug
-[Rr]elease
-[Rr]eleases
-
-.vs/
