@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CipherAppServer", "CipherAppServer\CipherAppServer.csproj", "{91D8F303-6EA2-43BD-A8AF-B8AED6D80309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CipherAppServerTests", "CipherAppServerTests\CipherAppServerTests.csproj", "{C8922BC7-D6DD-4908-8947-BAB83E697161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D8F303-6EA2-43BD-A8AF-B8AED6D80309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D8F303-6EA2-43BD-A8AF-B8AED6D80309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D8F303-6EA2-43BD-A8AF-B8AED6D80309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D8F303-6EA2-43BD-A8AF-B8AED6D80309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8922BC7-D6DD-4908-8947-BAB83E697161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8922BC7-D6DD-4908-8947-BAB83E697161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8922BC7-D6DD-4908-8947-BAB83E697161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8922BC7-D6DD-4908-8947-BAB83E697161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B561FA3-AFA3-48C3-8B6C-80D00DDF7712}
+	EndGlobalSection
+EndGlobal
